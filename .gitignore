@@ -1,9 +1,2 @@
 .venv/
-templates/tutorial.html
-__pycache__/
-*.pyc
-venv/
-.env
-.idea/
-.vscode/
   
